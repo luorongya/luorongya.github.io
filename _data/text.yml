@@ -89,7 +89,7 @@ zh: &DEFAULT_ZH
   previous: "前一篇"
   newer: "Newer"
   older: "Older"
-  back_to_top: "回到上面"
+  back_to_top: "回到最上"
   search_placeholder_text: "Enter your search term..."
   powered_by: "Powered by"
 zh-CN:
