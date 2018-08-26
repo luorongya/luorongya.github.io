@@ -1,15 +1,13 @@
 ---
 layout: post
-title: "Is Being Outspoken Really A Virtue"
-excerpt: "直言不讳真的是一种美德吗"
+title: "直言不讳真的是一种美德吗"
+excerpt: "作为一名纯纯的理科生，上学上到现在，周围接触到的绝大多数都是理科的同学。理科生讲究实事求是，该怎么样就怎么样。所以我接触到的大多数理科生都是直来直往、坦诚率真的直肠子性格。同样作为一名理科生，我也能接受这样的性格和与之相符的处事模式。比如在处理矛盾时我发现确实是我的观点有问题，别人火力全开我也不会介意，大方承认别人的正确就是了。当然，不能有人身攻击。"
 date: 2017-04-03 02:30 +0800
 modified: 
-categories: blog
-tags: [Sense]
-image:
-  feature: 
-  credit: 
-  creditlink:
+categories: 
+  - blog
+tags: 
+  - Sense
 
 ---
 

@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "Thoughts on PhD Qualification exam"
+title: "博士生综合考试有感"
 excerpt: "A brief summary and some thoughts"
 modified:
 categories: blog
 tags: [PhD]
-image:
-  feature:
 date: 2015-12-24 12:00 +0800
 modified: 
 ---

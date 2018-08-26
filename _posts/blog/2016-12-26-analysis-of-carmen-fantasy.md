@@ -1,18 +1,12 @@
 ---
 layout: post
-title: "Technique Analysis of Violin versions of Carmen Fantasy"
-excerpt: "A comparison among three great adaptions"
+title: "《卡门幻想曲》小提琴改编版本的技巧分析与鉴赏"
+excerpt: "歌剧《卡门》是一部有编号的歌剧，也就是说歌剧中的唱段都相对独立地自成一段。《卡门》的重心完全在于音乐上，从旋律、和弦、氛围和编曲上极力为人物的个性表现和情感发展相呼应。所以就算单独从歌剧中取出一些唱段作为音乐会的独唱演出，也能完全展现音乐的风采。这也就让这部歌剧在初次创作之后有了广阔的改编的二次创作空间。"
 modified:
 categories: blog
-tags: [Music]
-image:
-  feature:
-  credit:
-  creditlink:
-
+tags: 
+  - Music
 ---
-
-# 《卡门幻想曲》小提琴改编版本的技巧分析与鉴赏
 
 ## 一、引言
 

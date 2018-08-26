@@ -1,15 +1,10 @@
 ---
 layout: post
-title: "The Technology of FOG at Honeywell"
+title: "美国霍尼韦尔公司的光纤陀螺技术进展"
 excerpt: "Honeywell owns the most leading technology in this field"
 modified: 
 categories: articles
 tags: [FOG]
-image:
-  feature: 
-  credit: 
-  creditlink:
-
 ---
 
 

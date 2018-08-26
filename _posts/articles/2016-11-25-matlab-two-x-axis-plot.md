@@ -1,15 +1,10 @@
 ---
 layout: post
-title: "Plot a figure with two axes with MATLAB"
+title: "在 MATLAB 中作双轴图的方法"
 excerpt: "A method to label x axis with length and time at the same time"
 modified: 2017-03-02
 categories: articles
 tags: [MATLAB]
-image:
-  feature:
-  credit:
-  creditlink:
-
 ---
 
 # 在 MATLAB 中作双轴图的方法

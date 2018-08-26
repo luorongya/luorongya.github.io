@@ -1,0 +1,108 @@
+# Theme text and labels
+
+# English (default)
+# -----------------
+en: &DEFAULT_EN
+  skip_links: "Skip links"
+  skip_primary_nav: "Skip to primary navigation"
+  skip_content: "Skip to content"
+  skip_footer: "Skip to footer"
+  menu_label: "Menu"
+  by: "by"
+  min_read: "min read"
+  read_more: "Read more&hellip;"
+  categories: "Categories"
+  tags: "Tags"
+  pages_categorized: "Pages filed under"
+  pages_tagged: "Pages tagged"
+  table_of_contents: "Table of Contents"
+  results_found: "Result(s) found"
+  share: "Share"
+  tweet: "Tweet"
+  next: "Next"
+  previous: "Previous"
+  newer: "Newer"
+  older: "Older"
+  back_to_top: "Back to Top"
+  search_placeholder_text: "Enter your search term..."
+  powered_by: "Powered by"
+en-US:
+  <<: *DEFAULT_EN
+en-CA:
+  <<: *DEFAULT_EN
+en-GB:
+  <<: *DEFAULT_EN
+en-AU:
+  <<: *DEFAULT_EN
+
+# Spanish
+# -------
+es: &DEFAULT_ES
+  skip_links: "Saltar enlaces"
+  skip_primary_nav: "Saltar a la navegación primaria"
+  skip_content: "Saltar al contenido"
+  skip_footer: "Saltar al pie de página"
+  menu_label: "Menú"
+  by: "por"
+  min_read: "minuto(s) de lectura"
+  read_more: "Leer más&hellip;"
+  categories: "Categorías"
+  tags: "Etiquetas"
+  pages_categorized: "Páginas archivadas bajo"
+  pages_tagged: "Páginas etiquetadas"
+  table_of_contents: "Tabla de contenidos"
+  results_found: "Resultado(s) encontrado(s)"
+  share: "Compartir"
+  tweet: "Tweet"
+  next: "Siguiente"
+  previous: "Anterior"
+  newer: "Nuevo"
+  older: "Antiguo"
+  back_to_top: "Volver arriba"
+  search_placeholder_text: "Ingrese su término de búsqueda ..."
+  powered_by: "Energizado por"
+es-ES:
+  <<: *DEFAULT_ES
+es-CL:
+  <<: *DEFAULT_ES
+
+# Chinese
+# -------
+zh: &DEFAULT_ZH
+  skip_links: "Skip links"
+  skip_primary_nav: "Skip to primary navigation"
+  skip_content: "Skip to content"
+  skip_footer: "Skip to footer"
+  menu_label: "Menu"
+  by: "作者"
+  min_read: "min read"
+  read_more: "阅读更多&hellip;"
+  categories: "所在分类"
+  tags: "所属标签"
+  pages_categorized: "Pages filed under"
+  pages_tagged: "Pages tagged"
+  table_of_contents: "Table of Contents"
+  results_found: "Result(s) found"
+  share: "Share"
+  tweet: "Tweet"
+  next: "后一篇"
+  previous: "前一篇"
+  newer: "Newer"
+  older: "Older"
+  back_to_top: "回到上面"
+  search_placeholder_text: "Enter your search term..."
+  powered_by: "Powered by"
+zh-CN:
+  <<: *DEFAULT_ZH
+zh-HK:
+  <<: *DEFAULT_ZH
+zh-MO:
+  <<: *DEFAULT_ZH
+zh-SG:
+  <<: *DEFAULT_ZH
+zh-TW:
+  <<: *DEFAULT_ZH
+zh-CHS:
+  <<: *DEFAULT_ZH
+zh-CHT:
+  <<: *DEFAULT_ZH
