@@ -7,8 +7,6 @@ categories: articles
 tags: [MATLAB]
 ---
 
-# 在 MATLAB 中作双轴图的方法
-
 ## 一. 双 y 轴作图示例
 
 要把同一时间段采集的不同数据画在 MATLAB 的同一个图中，两条曲线共用一条 x 轴（即时间轴），添加两个区间值不一样的 y 轴对应两种数据可以很方便进行操作，之前有 plotyy 而现在有 yyaxis。

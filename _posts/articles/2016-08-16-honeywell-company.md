@@ -1,12 +1,11 @@
 ---
 layout: post
-title: "美国霍尼韦尔公司的光纤陀螺技术进展"
+title: "美国 Honeywell 公司的光纤陀螺技术进展"
 excerpt: "Honeywell owns the most leading technology in this field"
 modified: 
 categories: articles
 tags: [FOG]
 ---
-
 
 美国 Honeywell 公司的干涉式光纤陀螺（Interferometric Fiber Optic Gyroscope, IFOG）研究开始于二十世纪八十年代中期，是美国航空与潜艇等军事领域光学陀螺产品的最主要研发单位。其激光陀螺产品和光纤陀螺产品都是市场上非常成功的产品。该公司最早从1991年就开始批量生产成熟的光纤陀螺与基于光纤陀螺的惯性导航系统。
 
