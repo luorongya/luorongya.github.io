@@ -129,5 +129,3 @@ Done!
 下面就可以为了迎合制作 ppt 的清晰准确的需求，进行无聊而冗余的 Art work 了。
 
 ![一条曲线两条x轴2]({{site.url}}/images/posts/matlab_2_x_axes_4.png)
-
-当然，你可以单击此[链接]({{site.url}}/assets/attachment/plot_2_x_axes.m)下载源代码。
