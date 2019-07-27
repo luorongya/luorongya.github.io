@@ -19,22 +19,22 @@ locale: zh-CN
 title: "Rongya"
 description: ""
 baseurl: # the subpath of your site, e.g. "/blog"
-url: http://www.luorongya.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: http://www.luorongya.cn # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: # /images/site-logo.png # path of site logo, e.g. "/images/logo.png"
 date_format: "%Y-%m-%d"
-read_time: # reading time estimates, e.g. true
-words_per_minute: # 200
+# read_time: # reading time estimates, e.g. true
+# words_per_minute: # 200
 mathjax: true # MathJax equations, e.g. true
 google_fonts:
   - name: "Source Sans Pro"
     weights: "400,400i,700,700i"
   - name: "Lora"
     weights: "400,400i,700,700i"
-google_analytics: UA-92830554-1 # Google Analytics id, e.g. "UA-NNNNNNNN-N"
-disqus:
-  shortname: # Disqus shortname, e.g. "my_disqus_shortname"
-twitter:
-  username: # site's Twitter username, e.g. "mmistakes"
+# google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
+# disqus:
+#   shortname: # Disqus shortname, e.g. "my_disqus_shortname"
+# twitter:
+#   username: # site's Twitter username, e.g. "mmistakes"
 
 # Liquid
 liquid:
@@ -89,8 +89,8 @@ defaults:
 author:
   name: Rongya Luo
   picture: /images/owner-bio.jpg
-  email:
-  twitter:
+  # email:
+  # twitter:
   links:
     - title:
       url:
