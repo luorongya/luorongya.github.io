@@ -4,13 +4,15 @@
   url: /
 - title: 文章
   url: /posts/
-- title: 分类
-  url: /categories/
-- title: 标签
-  url: /tags/
+- title: 关于
+  url: /about/
+# - title: 分类
+#   url: /categories/
+# - title: 标签
+#   url: /tags/
 # - title: Recipes
 #   url: /recipes/
-- title: 搜索
-  url: /search/
+# - title: 搜索
+#   url: /search/
 # - title: External Page
 #   url: https://the-page.com/you-want-to-link-to.html
