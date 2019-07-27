@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 # remote_theme: "mmistakes/so-simple-theme"
-# remote_theme: mmistakes/so-simple-theme
+
 locale: zh-CN
-title: "Rongya"
+title: "Rongya Luo"
 description: ""
 baseurl: # the subpath of your site, e.g. "/blog"
 url: http://www.luorongya.cn # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -47,11 +47,12 @@ feed:
   path: atom.xml
 
 # Pagination - https://jekyllrb.com/docs/pagination/
-paginate: 10
-paginate_path: /page:num/
+# Disable pagination 2019-07-28
+# paginate: 10
+# paginate_path: /page:num/
 
 # Search
-search_full_content: true # can have performance implications for large sites
+search_full_content: false # can have performance implications for large sites
 
 # Taxonomy pages
 category_archive_path: "/categories/#"
@@ -73,7 +74,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
-  - jekyll-paginate
+  # - jekyll-paginate
 
 # Front Matter Defaults
 defaults:
@@ -91,10 +92,10 @@ author:
   picture: /images/owner-bio.jpg
   # email:
   # twitter:
-  links:
-    - title:
-      url:
-      icon:
+  links: false
+    # - title:
+    #   url:
+    #   icon:
 
 # Footer Links
 # footer_links:

@@ -1,14 +1,9 @@
 ---
-layout: post
+layout: page
 title: "Choice of Entrepreneurship Partners"
-categories: blog
 excerpt: "Two excellent spirits to lead entrepreneurship"
 tags: [entrepreneurship]
-image:
-  feature:
-date: 2017-03-02 21:07:00 +0800
-modified: 2017-04-02 23:00:00 +0800
-comments: false
+date: 2017-03-02 
 ---
 
 ## 青春作伴好创业

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "美国 Honeywell 公司的光纤陀螺技术进展"
 excerpt: "Honeywell owns the most leading technology in this field"
 modified: 

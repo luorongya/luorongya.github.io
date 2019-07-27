@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: "跑步有感"
 excerpt: "作为一名完全的跑步小白，我能在加入长跑练习的初期得到 PKUERC 的指导和鼓励，是一件机缘巧合的事。"
 date: 2017-04-01 23:00 +0800

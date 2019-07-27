@@ -1,7 +1,8 @@
 ---
-title: 所有文章
-layout: posts
+title: "Posts"
+layout: home
 permalink: /posts/
-show_excerpts: true
+show_excerpts: false
 entries_layout: list
 ---
+
