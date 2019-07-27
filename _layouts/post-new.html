@@ -25,16 +25,6 @@ layout: default
         <div class="e-content">
           {{ content }}
         </div>
-
-        {% if page.share %}
-          {% include social-share.html %}
-        {% endif %}
-
-        {% if site.disqus.shortname %}
-          {% include disqus-comments.html %}
-        {% endif %}
-
-        {% include page-pagination.html %}
       </div>
     </div>
   </article>
