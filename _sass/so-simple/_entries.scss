@@ -25,7 +25,7 @@
 }
 
 .entry-title {
-  margin-bottom: 0.5rem;
+  margin-bottom: 0rem;
   font-family: $title-font-family;
   font-weight: $entry-title-weight;
   font-style: regular;
@@ -72,11 +72,11 @@
     -webkit-box-direction: normal;
     -ms-flex-direction: column;
     flex-direction: column;
-    margin-bottom: 2rem;
+    margin-bottom: 0.5rem;
   }
 
   .entry-title {
-    @include fluid-type($min-vw, $max-vw, 24px, 36px);
+    @include fluid-type($min-vw, $max-vw, 16px, 24px);
     -webkit-box-ordinal-group: 2;
     -ms-flex-order: 1;
     order: 1;

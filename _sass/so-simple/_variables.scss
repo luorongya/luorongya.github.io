@@ -3,17 +3,17 @@
    ========================================================================== */
 
 /* Breakpoint widths */
-$small: 320px !default;
-$medium: 768px !default;
-$large: 1024px !default;
+$small: 200px !default;
+$medium: 640px !default;
+$large: 768px !default;
 $xlarge: 1280px !default;
 
 /* Fluid type */
 $base-font-size: 16px !default;
 $min-vw: $small !default;
 $max-vw: $xlarge !default;
-$min-font-size: 14px !default;
-$max-font-size: 18px !default;
+$min-font-size: 12px !default;
+$max-font-size: 24px !default;
 
 /* Calculate Modular Scale */
 $modular-scale-1: 1.067 !default; /* small */
@@ -38,12 +38,12 @@ $h6-min: ($base-font-size / $modular-scale-1) !default;
 $h6-max: ($base-font-size / $modular-scale-2) !default;
 
 /* Font Families */
-$serif-font-family: "Lora", serif !default;
-$sans-serif-font-family: "Source Sans Pro", sans-serif !default;
+$serif-font-family: Times, SimSun, STSong, "Lora", serif !default;
+$sans-serif-font-family: arial, "Microsoft YaHei", STXihei, "Source Sans Pro", sans-serif !default;
 $monospace-font-family: Menlo, Consolas, Monaco, "Courier New", Courier, monospace !default;
 
-$base-font-family: $sans-serif-font-family !default;
-$headline-font-family: $sans-serif-font-family !default;
+$base-font-family: $serif-font-family !default;
+$headline-font-family: $serif-font-family !default;
 $title-font-family: $serif-font-family !default;
 $description-font-family: $serif-font-family !default;
 $meta-font-family: $serif-font-family !default;
@@ -116,7 +116,7 @@ $base0e: #6c71c4 !default;
 $base0f: #d33682 !default;
 
 /* Max-width of the main content */
-$main-max-width: $medium !default;
+$main-max-width: $large !default;
 
 /* Max-width of the main content + sidebar */
 $main-sidebar-max-width: $large !default;
